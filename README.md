@@ -9,7 +9,7 @@
 <!-- title, description and logo -->
 <div align="center">
 
-  <img src="https://assets.stickpng.com/images/584830f5cef1014c0b5e4aa1.png" height=150 />
+  ![](https://i.imgur.com/37mIwvN.jpg)
 
 # React Side Project
 
@@ -23,4 +23,4 @@ _🏋️ Learn and practice building layouts with [React](https://reactjs.org/) 
 
 ## License
 
-Licensed under the MIT License, Copyright © 2022-present [Chen Xuan](https://github.com/chenxuanzzy).
+Licensed under the MIT License, Copyright © 2022-present [Cyndi](https://github.com/chenxuanzzy).
