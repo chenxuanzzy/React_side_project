@@ -19,7 +19,9 @@ _🏋️ Learn and practice building layouts with [React](https://reactjs.org/) 
 
 ## Projects
 
-
+2022/12
+- [Tic Tac Toe](https://github.com/chenxuanzzy/React_project/tree/main/tic_tac_toe)
+- [Task Tracker](https://github.com/chenxuanzzy/React_project/tree/main/task_tracker)
 
 ## License
 
